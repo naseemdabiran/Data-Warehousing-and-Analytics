@@ -1,5 +1,6 @@
 ETL PROCESS
-+++++++++++
+===========
+-----------
 
 The goal was to create 2 transactional fact tables, one for collisions that occurred and another for the vehicles involved in collisions, and 6 dimensions, which are date, time, location, weather, vehicle type, and contributing factor to collision. 
 
